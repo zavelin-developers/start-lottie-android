@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lotie Animations</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="from_raw_assets">From Raw Assets</string>
+    <string name="animation_from_offline_assets">Animation From Offline Assets</string>
+</resources>
